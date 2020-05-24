@@ -20,7 +20,7 @@ https://dl.dropbox.com/s/9fqsjx833gxbyyu/sctv.m3u8?dl=0
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV FULL",TVONE
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV FULL",GLOBALTV
-http://stgiptv.online/session_vidio_dyos/vidio/mnc_dyos/GTV.m3u8
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV FULL",TRANS7
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
 
