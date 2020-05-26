@@ -520,7 +520,7 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",NICKLODEON
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=6A027DC9DC67017F3BCDB2A786463E3D189D9713&profile=pass
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",DISNEY CHANNEL
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
+http://8018.mine.nu:9900/surf-EX/BxMJqzeRRQ/16394
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",HISTORY 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
@@ -591,7 +591,7 @@ http://203.153.218.28:9981/stream/channelid/1299824667
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170
+http://8018.mine.nu:9900/surf-EX/BxMJqzeRRQ/16394
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",FOX ACTION MOVI
 http://203.153.218.28:9981/stream/channelid/1744735983
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="INDIHOME",Discovery Channel
