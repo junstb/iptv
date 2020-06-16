@@ -1,0 +1,47 @@
+#EXTM3U
+
+######## FOX #########
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX",Fox Movies
+http://cdn.miip.tv:8080/live/123/123/137.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox series
+http://cdn.miip.tv:8080/live/123/123/138.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Cinema
+http://cdn.miip.tv:8080/live/123/123/140.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox
+http://cdn.miip.tv:8080/live/123/123/141.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Family
+http://cdn.miip.tv:8080/live/123/123/142.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Clasic
+http://cdn.miip.tv:8080/live/123/123/143.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Adrenalin
+http://cdn.miip.tv:8080/live/123/123/144.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Sport1
+http://cdn.miip.tv:8080/live/123/123/145.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Sport2
+http://cdn.miip.tv:8080/live/123/123/146.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="FOX", Fox Sport3
+http://cdn.miip.tv:8080/live/123/123/147.ts
+
+####### HBO #######
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO West
+http://cdn.miip.tv:8080/live/123/123/3533.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Signature
+http://cdn.miip.tv:8080/live/123/123/3534.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO 2 Latino
+http://cdn.miip.tv:8080/live/123/123/3535.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Plus Este
+http://cdn.miip.tv:8080/live/123/123/3536.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO MX
+http://cdn.miip.tv:8080/live/123/123/133.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO 2 MX
+http://cdn.miip.tv:8080/live/123/123/134.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Family
+http://cdn.miip.tv:8080/live/123/123/135.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Plus
+http://cdn.miip.tv:8080/live/123/123/136.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Mudo Latino
+http://cdn.miip.tv:8080/live/123/123/488.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Xtreme
+http://cdn.miip.tv:8080/live/123/123/489.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="HBO", HBO Pop Latino
+http://cdn.miip.tv:8080/live/123/123/490.ts
