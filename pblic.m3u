@@ -13,7 +13,7 @@ https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/transtv2_all/skrz1j8exe/transtv2_19
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",ANTV
 https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=192755917&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIwIDc6MTg6MjYgQU0maGFzaF92YWx1ZT1BeDBMejl3YjZScVl1YkR3azJock1BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTM5NTkwM3wxODAuMjQ4LjEyMS4xOTI=
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1593258692~acl=/hls-p/ingest_205_*/*~hmac=06c08d1ded5550ce04c00ab6d91774eb5f97dee4dbfbb28d2f6f224669c0afea/hls-p/ingest_205_720p/index.m3u8
+https://cdngb196.useetv.com/joss/15/indosiar/media_w125925812_b894100_sleng_52788.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",MNCTV
