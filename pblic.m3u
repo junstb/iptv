@@ -25,7 +25,7 @@ https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/tvone2_all/skrz1j8exe/tvone2_576p/c
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",GLOBALTV
 https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/globaltv2_all/skrz1j8exe/globaltv2_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDg6MDg6MTUgQU0maGFzaF92YWx1ZT16UjhjS0VyeUFLNkZNRnAyd0VPR01RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTM5NTkwM3wxMTAuMTM2LjE5Ni4xMjQ=
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",TRANS7
-https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
+https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/skrz1j8exe/trans72_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDg6MTc6MDAgQU0maGFzaF92YWx1ZT1sMHFuREdKQVJiRlJyc0I3S3FZbDhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTM5NTkwM3wxMTAuMTM2LjE5Ni4xMjQ=
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Kompas TV
 https://cdnkbl2.useetv.com/joss/15/kompastv/chunklist_w429293703_b494100_sleng_567208.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Net TV
@@ -37,7 +37,7 @@ http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Padang TV
 https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/metrotv2_all/skrz1j8exe/metrotv2_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDg6MTM6MzAgQU0maGFzaF92YWx1ZT1OcDNjcW1UMi9yeGFvNU0zd01oRmhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTM5NTkwM3wxMTAuMTM2LjE5Ni4xMjQ=
 
 
 ######## Sport #########
