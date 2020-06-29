@@ -29,7 +29,7 @@ https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/skrz1j8exe/trans72_576p
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Kompas TV
 https://cdnkbl2.useetv.com/joss/15/kompastv/chunklist_w429293703_b494100_sleng_567208.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Net TV
-https://cdnkbl2.useetv.com/joss/15/net/chunklist_w1367416155_b894100_sleng_186241.m3u8
+https://e2-us-1.nim.mivo.tv/wm3d5ndxxds8h3kr/nettv_all/skrz1j8exe/nettv_480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIwIDg6MjI6MDAgQU0maGFzaF92YWx1ZT1NVE5MMklCZVdYUzJLKzk1V1ZtMURRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTM5NTkwM3wxMTAuMTM2LjE5Ni4xMjQ=
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Radar TV Tasikmalaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV  Local",Prima TV Banjarmasin
