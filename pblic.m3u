@@ -112,20 +112,32 @@ https://vcdnjt.useetv.com/joss/14/pramborstv/chunklist_w1794599905_b684100_sleng
 
 ######## Kids #########
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Duck TV
-https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w2021919818_b684100_sleng_10312.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Horee
-https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1305191032_b684100_sleng_10331.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Nick Junior
-https://edgejt6.useetv.com/joss/14/nickjr/chunklist_w751536054_b684100_sleng_10720.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Nickelodeon
-https://edgejt6.useetv.com/joss/14/nickelodeon/chunklist_w108098792_b684100_sleng_10730.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Da Vinci Learning
-https://edgejt6.useetv.com/joss/14/davinci/chunklist_w239716508_b684100_sleng_10887.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Dreamworks
-https://cdnkbl2.useetv.com/joss/15/dreamworks/chunklist_w889859185_b894100_sleng_149448.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Spacetoon Plus
-https://cdnkbl2.useetv.com/joss/14/spacetoonplus/chunklist_w386124900_b684100_sleng_10939.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Ben 10
+http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM JUNIOR
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM JUNIOR 
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM KID
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w1290919452.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist_w2136739086.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM JUNIOR 
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist_w1049727759.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",GEM Junior
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",3ABNKIDS.TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="Kids",Larva TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
 ######## Knowledge #########
 
