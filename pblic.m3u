@@ -38,6 +38,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",BEIN SPORT EXSTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Viasat Sport East
 http://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Real Madrid HD
@@ -52,14 +54,10 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklis
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Varzesh TV
 http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Champion TV 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1205047494_b894100_sleng_74806.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Golf
-https://vcdnjt.useetv.com/joss/15/golfplus/chunklist_w362556076_b684100_sleng_145103.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",NBA
-https://vcdnjt.useetv.com/joss/15/nba/chunklist_w1845832429_b894100_sleng_145119.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",egg network
-https://vcdnjt.useetv.com/joss/14/egg/chunklist_w1259359838_b684100_sleng_6615.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Varzesh TV 3
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/ATV_Peru_%281998-2014%29.png" group-title="TV Sport",Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
 
 ######## News #########
 
